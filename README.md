@@ -10,7 +10,7 @@ It includes **technical reports, documentation, and references** for both indivi
 
 ## Assignment Overview
 
-### Report 1 – Technical Paper: Privacy, Data Breach & Cybersecurity Risks (10%)
+### Report 1 – Technical Paper: Privacy, Data Breach & Cybersecurity Risks 
 **Objective:**  
 Analyze a recent large-scale data breach affecting users globally, and prepare a technical report for internal review.
 
@@ -20,7 +20,7 @@ Analyze a recent large-scale data breach affecting users globally, and prepare a
 - Prepare a report suitable for senior executives.  
 
 **Report Structure:**  
-- Title page with abstract (≤150 words)  
+- Title page with abstract 
 - Table of Contents  
 - Report body: Introduction, Discussion, Conclusion  
 - References (IEEE style)  
@@ -36,7 +36,7 @@ Analyze a recent large-scale data breach affecting users globally, and prepare a
 - `DataBreachAnalysis.pdf` – Technical paper
 ---
 
-### Report 2 – Penetration Testing Using Shodan (15%)
+### Report 2 – Penetration Testing Using Shodan
 **Objective:**  
 Conduct a penetration testing exercise using Shodan, analyze vulnerabilities, and propose security improvements.
 
@@ -47,7 +47,7 @@ Conduct a penetration testing exercise using Shodan, analyze vulnerabilities, an
 - Prepare a technical report suitable for senior executives.  
 
 **Report Structure:**  
-- Title page with abstract (≤150 words)  
+- Title page with abstract 
 - Table of Contents  
 - Report body: Introduction, Theoretical Background, Discussion/Results, Conclusion  
 - References (IEEE style)  
