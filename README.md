@@ -34,7 +34,6 @@ Analyze a recent large-scale data breach affecting users globally, and prepare a
 
 **Files Included:**  
 - `DataBreachAnalysis.pdf` – Technical paper
-- 
 ---
 
 ### Report 2 – Penetration Testing Using Shodan (15%)
